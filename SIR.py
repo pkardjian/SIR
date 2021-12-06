@@ -3,7 +3,6 @@
 
 import matplotlib.pyplot as plt
 import statistics as stats
-import pandas as pd
 import numpy as np
 import math
 import random
